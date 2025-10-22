@@ -1,0 +1,28 @@
+community:
+  - name: chapter-morocco
+    platform: slack
+    url: https://owasp.slack.com/archives/CE7838RQQ
+    description: discussions about morocco chapter
+leaders:
+  - name: Azzeddine RAMRAMI
+    email: azzeddine.ramrami@owasp.org
+    github: aramrami
+  - name: Tarik ELAOUADI
+    email: tarik.elaouadi@owasp.org
+location:
+  country: Morocco
+  country_code: MA
+  region: Africa
+  latitude: 28.3347722
+  longitude: -10.371337908392647
+meetup_group: Morocco-OWASP-Meetup-Group
+name: OWASP Morocco
+repositories:
+  - name: www-chapter-morocco
+    url: https://github.com/OWASP/www-chapter-morocco
+    description: OWASP Foundation Web Repository
+tags:
+  - morocco-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-morocco
