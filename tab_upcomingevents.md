@@ -8,8 +8,8 @@ tags: morocco-tag
 
 ---
 
-## Upcoming Event September 26th, 2025: DevSecOps Day at University of Settat Morocco
-OWASP Morocco chapter organise une journée DevSecOps à l'université de Settat
+## Upcoming Event September 26th, 2026: DevSecOps Day at Technopark Casablanca Morocco
+OWASP Morocco chapter organise une journée DevSecOps au Technopark Casablanca
 
 Agenda:
 
